@@ -1,0 +1,6 @@
+{
+  "name": "Rabbit R1 Gemini Box OS",
+  "description": "An interactive OS simulator and development workbench for Project Bx (Gemini Box) on Rabbit R1 hardware.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
